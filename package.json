@@ -1,0 +1,38 @@
+{
+  "name": "@tarrasque/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint config for Tarrasque App",
+  "keywords": [
+    "tarrasque",
+    "config",
+    "eslint"
+  ],
+  "homepage": "https://github.com/tarrasqueapp/eslint-config#readme",
+  "bugs": {
+    "url": "https://github.com/tarrasqueapp/eslint-config/issues",
+    "email": "support@tarrasque.app"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Richard Solomou",
+    "email": "richard@tarrasque.app",
+    "url": "https://tarrasque.app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tarrasqueapp/eslint-config"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.49.0",
+    "@typescript-eslint/parser": "^5.49.0",
+    "eslint": "^8.32.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.1",
+    "prettier": "^2.8.3",
+    "typescript": "^4.9.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
