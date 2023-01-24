@@ -1,6 +1,6 @@
 {
   "name": "@tarrasque/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint config for Tarrasque App",
   "keywords": [
     "tarrasque",
@@ -22,13 +22,15 @@
     "type": "git",
     "url": "https://github.com/tarrasqueapp/eslint-config"
   },
-  "devDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.49.0",
     "@typescript-eslint/parser": "^5.49.0",
-    "eslint": "^8.32.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-react": "^7.32.1",
+    "eslint-plugin-react": "^7.32.1"
+  },
+  "peerDependencies": {
+    "eslint": "^8.32.0",
     "prettier": "^2.8.3",
     "typescript": "^4.9.4"
   },
