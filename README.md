@@ -3,7 +3,7 @@
   <h1>@tarrasque/eslint-config</h1>
 </div>
 
-This package provides [ESLint](https://eslint.org) configuration for [Tarrasque App](https://tarrasque.app) projects. It is intended to be used with [@tarrasque/prettier-config](https://github.com/tarrasqueapp/prettier-config) and [@tarrasque/tsconfig](https://github.com/tarrasqueapp/prettier-config).
+This package provides [ESLint](https://eslint.org) configuration for [Tarrasque App](https://tarrasque.app) projects. It is intended to be used with [@tarrasque/prettier-config](https://github.com/tarrasqueapp/prettier-config) and [@tarrasque/tsconfig](https://github.com/tarrasqueapp/tsconfig).
 
 ## Installation
 
