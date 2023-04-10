@@ -1,31 +1,31 @@
 {
-  "name": "@tarrasque/eslint-config",
+  "name": "@tronite/eslint-config",
   "version": "1.0.2",
-  "description": "ESLint config for Tarrasque App",
+  "description": "ESLint config for Tronite",
   "keywords": [
-    "tarrasque",
+    "tronite",
     "config",
     "eslint"
   ],
-  "homepage": "https://github.com/tarrasqueapp/eslint-config#readme",
+  "homepage": "https://github.com/tronite/eslint-config#readme",
   "bugs": {
-    "url": "https://github.com/tarrasqueapp/eslint-config/issues",
-    "email": "support@tarrasque.app"
+    "url": "https://github.com/tronite/eslint-config/issues",
+    "email": "support@tronite.com"
   },
   "license": "MIT",
   "author": {
     "name": "Richard Solomou",
-    "email": "richard@tarrasque.app",
-    "url": "https://tarrasque.app"
+    "email": "richard@tronite.com",
+    "url": "https://tronite.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tarrasqueapp/eslint-config"
+    "url": "https://github.com/tronite/eslint-config"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.50.0",
-    "@typescript-eslint/parser": "^5.50.0",
-    "eslint-config-prettier": "^8.6.0",
+    "@typescript-eslint/eslint-plugin": "^5.58.0",
+    "@typescript-eslint/parser": "^5.58.0",
+    "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2"
   },
