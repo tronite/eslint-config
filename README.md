@@ -10,13 +10,13 @@ This package provides [ESLint](https://eslint.org) configuration for [Tronite](h
 To install this package, run the following command:
 
 ```sh
-yarn add --dev @tronite/eslint-config
+pnpm add -D @tronite/eslint-config
 ```
 
 You will also need to install the following peer dependencies:
 
 ```sh
-yarn add --dev eslint prettier typescript
+pnpm add -D eslint prettier typescript
 ```
 
 ## Usage
