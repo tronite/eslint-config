@@ -34,3 +34,9 @@ module.exports = require("@tronite/eslint-config/node");
 ```js
 module.exports = require("@tronite/eslint-config/react");
 ```
+
+### Next.js
+
+```js
+module.exports = require("@tronite/eslint-config/nextjs");
+```
